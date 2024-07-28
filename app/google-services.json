@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "508121110459",
+    "project_id": "product-ar-4e2bf",
+    "storage_bucket": "product-ar-4e2bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508121110459:android:e97c4e59b57ab60ec9169e",
+        "android_client_info": {
+          "package_name": "com.irfanrev.martar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlkC4nlmTlPquhtnKOlL_ESHO_5X-Jgck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
